@@ -18,7 +18,7 @@ $ npm install
 ```
 
 ```
-$ npm run dev
+$ npm start
 ```
 
 # Feito com ❤️ por Juarez Goulart
